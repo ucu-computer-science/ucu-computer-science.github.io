@@ -24,8 +24,8 @@ github_username: ucu-computer-science
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-so-simple
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: jekyll-theme-so-simple
+#remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 plugins:
   - jekyll-feed

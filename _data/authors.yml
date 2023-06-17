@@ -1,8 +1,42 @@
 myralllka:
-  name: Morhunenko Mykola
+  name: Mykola Morhunenko
   picture: /images/myralllka.jpg
   links:
     - title: GitHub
       url: https://github.com/Myralllka
       icon: fab fa-github-square
+    - title: Telegram
+      url: https://t.me/myralllka
+      icon: fa-brands fa-telegram
 
+indrekis:
+  name: Oleg Farenyuk
+  picture: /images/indrekis.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/indrekis
+      icon: fab fa-github-square
+
+#midren:
+#  name: Roman Milishchuk
+#  picture: /images/midren.jpg
+#  links:
+#    - title: GitHub
+#      url: https://github.com/midren
+#      icon: fab fa-github-square
+
+#hermann:
+#  name:
+#    picture: /images/hermann.jpg
+#    links:
+#      - title: GitHub
+#        url: https://github.com/wardady
+#        icon: fab fa-github-square
+
+markiian:
+  name: Markiian Matsiuk
+  picture: /images/markiian.jpg
+  links:
+    - title: Telegram
+      url: https://t.me/M_Markiian
+      icon: fa-brands fa-telegram
