@@ -1,0 +1,8 @@
+myralllka:
+  name: Morhunenko Mykola
+  picture: /images/myralllka.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/Myralllka
+      icon: fab fa-github-square
+
