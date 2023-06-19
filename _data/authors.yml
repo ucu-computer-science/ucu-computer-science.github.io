@@ -1,3 +1,7 @@
+###############################################
+################ UCU mentors ##################
+###############################################
+
 myralllka:
   name: Mykola Morhunenko
   picture: /images/myralllka.jpg
@@ -7,7 +11,13 @@ myralllka:
       icon: fab fa-github-square
     - title: Telegram
       url: https://t.me/myralllka
-      icon: fa-brands fa-telegram
+      icon: fab fa-telegram
+    - title: Linkedin
+      url: https://www.linkedin.com/in/mykola-morhunenko/
+      icon: fab fa-linkedin
+    - title: Email
+      url: mailto:morgunenko@ucu.edu.ua
+      icon: fa fa-envelope
 
 indrekis:
   name: Oleg Farenyuk
@@ -25,18 +35,43 @@ indrekis:
 #      url: https://github.com/midren
 #      icon: fab fa-github-square
 
-#hermann:
-#  name:
-#    picture: /images/hermann.jpg
-#    links:
-#      - title: GitHub
-#        url: https://github.com/wardady
-#        icon: fab fa-github-square
+hermann:
+  name:
+    picture: /images/hermann.jpg
+    links:
+      - title: GitHub
+        url: https://github.com/wardady
+        icon: fab fa-github-square
+#      - title: Telegram
+#        url: https://t.me/myralllka
+#        icon: fab fa-telegram
+#      - title: Linkedin
+#        url: https://www.linkedin.com/in/mykola-morhunenko/
+#        icon: fab fa-linkedin
+#      - title: Email
+#        url: mailto:morgunenko@ucu.edu.ua
+#        icon: fa fa-envelope
 
 markiian:
   name: Markiian Matsiuk
   picture: /images/markiian.jpg
   links:
-    - title: Telegram
-      url: https://t.me/M_Markiian
-      icon: fa-brands fa-telegram
+#    - title: GitHub
+#      url: https://github.com/MarkiianAtUCU/
+#      icon: fab fa-github
+#    - title: Telegram
+#      url: https://t.me/M_Markiian
+#      icon: fab fa-telegram
+    - title: Linkedin
+      url: https://www.linkedin.com/in/markiianm/
+      icon: fab fa-linkedin
+
+###############################################
+################ SCI mentors ##################
+###############################################
+
+
+
+###############################################
+########## mentors from Industry ##############
+###############################################
